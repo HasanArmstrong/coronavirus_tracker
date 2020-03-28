@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  country: MyString
+  confirmed_cases: MyString
+  confirmed_deaths: MyString
+
+two:
+  country: MyString
+  confirmed_cases: MyString
+  confirmed_deaths: MyString

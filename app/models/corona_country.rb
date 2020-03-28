@@ -1,0 +1,2 @@
+class CoronaCountry < ApplicationRecord
+end
